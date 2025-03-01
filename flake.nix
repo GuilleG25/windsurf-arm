@@ -40,8 +40,8 @@
             sha256 = "sha256-Ybxfv/pb0p5hF3Xul/V0DjbkRDuTt+q+pzK+H61g1i8=";
           };
           languageServerWin = pkgs.fetchurl {
-            url = "https://github.com/Exafunction/codeium/releases/download/language-server-v${languageServerVersion}/language_server_windows_x64.exe";
-            sha256 = "sha256-kBSfsRj1gF8N19YwCD1EgnJKMMJd3AI6KnyGQ1FC/Bo=";
+            url = "https://github.com/GuilleG25/windsurf-arm/releases/download/language-server-v1.0/language_server_windows_x64.exe";
+            sha256 = "sha256-nA6tCJzmGGaDnqNlGEdrzi93WXjdIehbFRr8fH1c5y8=";
           };
           languageServerArm64 = pkgs.fetchurl {
             url = "https://github.com/Exafunction/codeium/releases/download/language-server-v${languageServerVersion}/language_server_linux_arm";
