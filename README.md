@@ -1,3 +1,5 @@
+Credit to https://github.com/rodriguezst/windsurf-arm which served as a guide, but it has an issue that I couldn't report related to the language-server, and it's also not in the most recent version.
+
 <h1>
     <img src="./logo.png" width="64px" align="center">
     Windsurf for ARM
